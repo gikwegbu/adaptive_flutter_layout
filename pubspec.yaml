@@ -1,9 +1,9 @@
 name: adaptive_flutter_layout
 description: A production-ready Flutter package for layout adaptation across mobile, tablet, and desktop breakpoints with a clean declarative API.
-version: 1.0.1
-homepage: https://github.com/gikwegbu/flutter_packages/tree/main/adaptive_flutter_layout
-repository: https://github.com/gikwegbu/flutter_packages/tree/main/adaptive_flutter_layout
-issue_tracker: https://github.com/gikwegbu/flutter_packages/issues
+version: 1.0.2
+homepage: https://github.com/gikwegbu/adaptive_flutter_layout
+repository: https://github.com/gikwegbu/adaptive_flutter_layout
+issue_tracker: https://github.com/gikwegbu/adaptive_flutter_layout/issues
 license: MIT
 
 environment:
